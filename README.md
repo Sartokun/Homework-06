@@ -1,5 +1,5 @@
-# Homework-05 (มีสไลด์)
-MDT211: Computer Programming for Media II (Homework 05)
+# Homework-06 (มีสไลด์)
+MDT211: Computer Programming for Media II (Homework 06)
 
 ****โปรดอ่าน****
 
